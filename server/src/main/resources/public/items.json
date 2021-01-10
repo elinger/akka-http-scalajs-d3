@@ -1,0 +1,23 @@
+{
+  "name": "Random arts",
+  "circles" : [
+    {
+      "name": "First",
+      "x": 300,
+      "y": 250,
+      "r": 20
+    },
+    {
+      "name": "Second",
+      "x": 100,
+      "y": 200,
+      "r": 15
+    },
+    {
+      "name": "Third",
+      "x": 120,
+      "y": 300,
+      "r": 50
+    }
+  ]
+}
